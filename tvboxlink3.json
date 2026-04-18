@@ -1,4 +1,5 @@
 {
+  "name": "精简可用采集源合集",
   "sites": [
     {
       "key": "feifan",
@@ -109,15 +110,6 @@
       "filterable": 1
     },
     {
-      "key": "ruyi",
-      "name": "🧿如意资源",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "hongniu",
       "name": "🐂红牛资源",
       "type": 1,
@@ -154,15 +146,6 @@
       "filterable": 1
     },
     {
-      "key": "huya",
-      "name": "🐯虎牙资源",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lezi",
       "name": "🎵乐子资源",
       "type": 1,
@@ -185,15 +168,6 @@
       "name": "🐳鲸鱼资源",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "aidan",
-      "name": "🥚爱蛋资源",
-      "type": 1,
-      "api": "https://lovedan.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -253,15 +227,6 @@
       "filterable": 1
     },
     {
-      "key": "subo",
-      "name": "🚀速博资源",
-      "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "jingpinx",
       "name": "💎精品资源",
       "type": 1,
@@ -280,46 +245,10 @@
       "filterable": 1
     },
     {
-      "key": "aosika",
-      "name": "🎥奥斯卡资源",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "fanhao",
       "name": "🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shayu",
-      "name": "🦈鲨鱼资源",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "pgxdy",
-      "name": "🔞黄AV资源站",
-      "type": 1,
-      "api": "https://www.pgxdy.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "naixiang",
-      "name": "🥛奶香香",
-      "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -343,91 +272,10 @@
       "filterable": 1
     },
     {
-      "key": "jkun",
-      "name": "🔞jkun",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "hsck",
       "name": "🔞黄色仓库",
       "type": 1,
       "api": "https://hsckzy.vip/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "yutu",
-      "name": "🐰玉兔",
-      "type": 1,
-      "api": "https://yutuzy10.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "msnii",
-      "name": "🔞美少女资源站",
-      "type": 1,
-      "api": "https://www.msnii.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xrbsp",
-      "name": "🔞淫水机资源站",
-      "type": 1,
-      "api": "https://www.xrbsp.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gdlsp",
-      "name": "🔞香奶儿资源站",
-      "type": 1,
-      "api": "https://www.gdlsp.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "kxgav",
-      "name": "🔞白嫖资源站",
-      "type": 1,
-      "api": "https://www.kxgav.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "baiwan",
-      "name": "💰百万资源",
-      "type": 1,
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "senlin",
-      "name": "🌲森林资源",
-      "type": 1,
-      "api": "https://slapibf.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xiaoji",
-      "name": "🐔小鸡资源",
-      "type": 1,
-      "api": "https://api.xiaojizy.live/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
